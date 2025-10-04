@@ -83,7 +83,7 @@ const SkillsSection = () => {
                     className='text-3xl md:text-5xl font-light mb-6'
                     >
                       Skills & 
-                      <span className='text-purple-700 font-medium'>Technologies</span>
+                      <span className='text-purple-700 font-medium'> Technologies</span>
                     </motion.h2>
 
                     <motion.p

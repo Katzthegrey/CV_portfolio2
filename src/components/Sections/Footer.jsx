@@ -108,12 +108,12 @@ const Footer = () => {
     className="absolute inset-0 overflow-hidden pointer-events-none"
     >
         <div
-        className={`absolute bottom-10 left-1/4 w-64 h-64 rounded-full blur-3xl opacity-3 ${
+        className={`absolute bottom-10 left-1/4 w-64 h-64 rounded-full blur-3xl opacity-30 ${
          isDarkMode
          ? "bg-blue-500" : "bg-blue-400"
         }`}
         />
-        <div className={`absolute top-10 right-1/3 w-48 h-48 rounded-full blur-3xl opacity-3 ${
+        <div className={`absolute top-10 right-1/3 w-48 h-48 rounded-full blur-3xl opacity-30 ${
             isDarkMode
             ? "bg-purple-500" : "bg-purple-400"
         }`}

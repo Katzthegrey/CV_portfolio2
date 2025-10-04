@@ -198,28 +198,28 @@ export const SOCIAL_LINKS = [
     {
         name: "Github",
         icon: FiGithub,
-        url: "https://github.com",
+        url: "https://github.com/Katzthegrey",
         color: "hover:text-gray-400",
         bgColor: "hover:bg-gray-800"
     },
       {
         name: "LinkedIn",
         icon: FiLinkedin,
-        url: "https://Linkedin.com",
+        url:  "https://www.linkedin.com/in/katlego-mashego-651a83250/",
         color: "hover:text-blue-400",
         bgColor: "hover:bg-blue-500/10"
     },
       {
         name: "Twitter",
         icon: FiTwitter,
-        url: "https://twitter.com",
+        url: "https://x.com/Kxtz23",
         color: "hover:text-sky-400",
         bgColor: "hover:bg-sky-500/10"
     },
       {
         name: "Email",
         icon: Mail,
-        url: "katzkatlego310@gmail.com",
+        url: "mailto:katzkatlego310@gmail.com",
         color: "hover:text-green-400",
         bgColor: "hover:bg-green-500/10"
     },

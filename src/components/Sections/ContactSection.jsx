@@ -108,7 +108,7 @@ const ContactSection = () => {
             className='text-3xl md:text-5xl font-light mb-6'
             >
                 Get In        
-                <span className='text-purple-700 font-medium'>Touch</span>
+                <span className='text-purple-700 font-medium'> Touch</span>
                 </motion.h2>
 
                 <motion.p

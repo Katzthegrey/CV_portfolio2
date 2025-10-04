@@ -361,9 +361,9 @@ const HeroSection = () => {
                 className="flex space-x-6 mb-12"
               >
                 {[
-                  { icon: FiGithub, href: "#" },
-                  { icon: FiLinkedin, href: "#" },
-                  { icon: Mail, href: "#" },
+                  { icon: FiGithub, href: "https://github.com/Katzthegrey" },
+                  { icon: FiLinkedin, href: "https://www.linkedin.com/in/katlego-mashego-651a83250/" },
+                  { icon: Mail, href: "mailto:katzkatlego310@gmail.com" },
                 ].map((social, index) => (
                   <motion.a
                     key={index}
